@@ -16,7 +16,7 @@ My research interests focus on Software Testing and Analysis, in particular: Aut
 Publications
 ======
 1. **DeepFL: Integrating Multiple Fault Diagnosis Dimensions for Deep Fault Localization**     
-**Xia Li**, Wei Li, Yuqun Zhang, and Lingming Zhang  
+**Xia Li**, Wei Li, Yuqun Zhang and Lingming Zhang  
 *Proceedings of the 28th ACM International Symposium on Software Testing and Analysis (ISSTA 2019), pages to appear, July 2019.* [[PDF]](https://lx0704.github.io/files/DeepFL.pdf)  
 (This paper won an **ACM SIGSOFT Distinguished Paper Award.**) 
 
@@ -29,5 +29,5 @@ Mengshi Zhang, Yaoxian Li, **Xia Li**, Lingchao Chen, Yuqun Zhang, Lingming Zhan
 *Proceedings of the ACM SIGPLAN Conference on Object-Oriented Programming Systems, Languages, and Applications (SPLASH/OOPSLA 2017),Oct. 2016.* [[PDF]](https://lx0704.github.io/files/trapt.pdf)
 
 4. **Boosting Spectrum-based Fault Localization using PageRank**
-Mengshi Zhang, **Xia Li**, Lingming Zhang, and Sarfraz Khurshid  
+Mengshi Zhang, **Xia Li**, Lingming Zhang and Sarfraz Khurshid  
 *Proceedings of the 26th ACM International Symposium on Software Testing and Analysis(ISSTA 2017),July 2017.* [[PDF]](https://lx0704.github.io/files/pagerank.pdf)
