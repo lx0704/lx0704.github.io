@@ -21,9 +21,12 @@ Publications
 
 
 1. **DeepFL: Integrating Multiple Fault Diagnosis Dimensions for Deep Fault Localization**
-**Xia Li**, Wei Li, Yuqun Zhang, and Lingming Zhang
-*Proceedings of the 28th ACM International Symposium on Software Testing and Analysis (ISSTA 2019), pages to appear, July 2019*
-(This paper won an **ACM SIGSOFT Distinguished Paper Award.**) 
+   
+   **Xia Li**, Wei Li, Yuqun Zhang, and Lingming Zhang
+   
+   *Proceedings of the 28th ACM International Symposium on Software Testing and Analysis (ISSTA 2019), pages to appear, July 2019*
+   
+   (This paper won an **ACM SIGSOFT Distinguished Paper Award.**) 
 
 
 
