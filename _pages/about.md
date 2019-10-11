@@ -17,20 +17,17 @@ Publications
 ======
 1. **DeepFL: Integrating Multiple Fault Diagnosis Dimensions for Deep Fault Localization**     
 **Xia Li**, Wei Li, Yuqun Zhang, and Lingming Zhang  
-*Proceedings of the 28th ACM International Symposium on Software Testing and Analysis (ISSTA 2019), pages to appear, July 2019* [[PDF]](https://lx0704.github.io/files/DeepFL.pdf)  
+*Proceedings of the 28th ACM International Symposium on Software Testing and Analysis (ISSTA 2019), pages to appear, July 2019.* [[PDF]](https://lx0704.github.io/files/DeepFL.pdf)  
 (This paper won an **ACM SIGSOFT Distinguished Paper Award.**) 
 
+2. **An Empirical Study of Boosting Spectrum-based Fault Localization via PageRank**  
+Mengshi Zhang, Yaoxian Li, **Xia Li**, Lingchao Chen, Yuqun Zhang, Lingming Zhang, Sarfraz Khurshid
+*IEEE Transactions on Software Engineering (TSE 2019), 2019.* [[PDF]](https://lx0704.github.io/files/TSE2019.pdf) 
 
+3. **Transforming Programs and Tests in Tandem for Fault Localization**
+**Xia Li**, Lingming Zhang
+*Proceedings of the ACM SIGPLAN Conference on Object-Oriented Programming Systems, Languages, and Applications (SPLASH/OOPSLA 2017),Oct. 2016.* [[PDF]](https://lx0704.github.io/files/trapt.pdf)
 
-
-
-   
-   **Xia Li**, Wei Li, Yuqun Zhang, and Lingming Zhang. **DeepFL: Integrating Multiple Fault Diagnosis Dimensions for Deep Fault Localization**. *In Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2019), July 2019*.[[PDF]](https://lx0704.github.io/files/paper1.pdf) **ACM SIGSOFT Distinguished Paper Award**
-
-2. **Xia Li** and Lingming Zhang. Transforming Programs and Tests in Tandem for Fault Localization. In proceedings of the ACM SIGPLAN conference on Object-Oriented Programming System, Languages, and Applications (SPLASH/OOPSLA 2017), October 2017.
-
-3. Mengshi Zhang, **Xia Li**, Lingming Zhang and Sarfraz Khurshid. Boosting Spectrum-based Fault Localization using PageRank. In Proceedings of the 26th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2017), July 2017. 
-
-4. Mengshi Zhang, Yaoxian Li, **Xia Li**, Lingchao Chen, Yuqun Zhang, Lingming Zhang, Sarfraz Khurshid. An Empirical Study of Boosting Spectrum-based Fault Localization via PageRank. IEEE Transactions on Software Engineering (TSE), April 2019.
-
-
+4. **Boosting Spectrum-based Fault Localization using PageRank**
+Mengshi Zhang, **Xia Li**, Lingming Zhang, and Sarfraz Khurshid
+*Proceedings of the 26th ACM International Symposium on Software Testing and Analysis(ISSTA 2017),July 2017.* [[PDF]](https://lx0704.github.io/files/pagerank.pdf)
