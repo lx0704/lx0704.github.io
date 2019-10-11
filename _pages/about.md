@@ -36,11 +36,11 @@ Professional Service
 ======
 Reviewer
 ------
-2018 **Reviewer**:Journal of Systems and Software (JSS) 
+2018: Journal of Systems and Software (JSS) 
 
 Co-Reviewer
 ------
-2020:ICSE  
-2019:ICST,ISSTA,QRS,ICSME,ASE  
-2018:QRS,COMPSAC,ASE,SPE  
-2017:ICST,QRS,COMPSAC,ASE
+2020: ICSE  
+2019: ICST,ISSTA,QRS,ICSME,ASE  
+2018: QRS,COMPSAC,ASE,SPE  
+2017: ICST,QRS,COMPSAC,ASE
