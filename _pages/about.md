@@ -15,15 +15,14 @@ My research interests focus on Software Testing and Analysis, in particular: Aut
 
 Publications
 ======
-1. Xia Li, Wei Li, Yuqun Zhang, and Lingming Zhang. DeepFL: Integrating Multiple Fault Diagnosis Dimensions for Deep Fault Localization. In Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2019), July 2019.
+1. **Xia Li**, Wei Li, Yuqun Zhang, and Lingming Zhang. DeepFL: Integrating Multiple Fault Diagnosis Dimensions for Deep Fault Localization. In Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2019), July 2019.
 ACM SIGSOFT Distinguished Paper Award
 
-2. Xia Li and Lingming Zhang. Transforming Programs and Tests in Tandem for Fault Localization. In proceedings of the ACM SIGPLAN conference on Object-Oriented Programming System, Languages, and Applications (SPLASH/OOPSLA 2017), October
-2017.
+2. **Xia Li** and Lingming Zhang. Transforming Programs and Tests in Tandem for Fault Localization. In proceedings of the ACM SIGPLAN conference on Object-Oriented Programming System, Languages, and Applications (SPLASH/OOPSLA 2017), October 2017.
 
-3. Mengshi Zhang, Xia Li, Lingming Zhang and Sarfraz Khurshid. Boosting Spectrum-based Fault Localization using PageRank. In Proceedings of the 26th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2017), July 2017. 
+3. Mengshi Zhang, **Xia Li**, Lingming Zhang and Sarfraz Khurshid. Boosting Spectrum-based Fault Localization using PageRank. In Proceedings of the 26th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2017), July 2017. 
 
-4. Mengshi Zhang, Yaoxian Li, Xia Li, Lingchao Chen, Yuqun Zhang, Lingming Zhang, Sarfraz Khurshid. An Empirical Study of Boosting Spectrum-based Fault Localization via PageRank. IEEE Transactions on Software Engineering (TSE), April 2019.
+4. Mengshi Zhang, Yaoxian Li, **Xia Li**, Lingchao Chen, Yuqun Zhang, Lingming Zhang, Sarfraz Khurshid. An Empirical Study of Boosting Spectrum-based Fault Localization via PageRank. IEEE Transactions on Software Engineering (TSE), April 2019.
 
 
 
