@@ -11,7 +11,7 @@ I am a Ph.D. student major in the [Department of Computer Science](http://cs.utd
 
 Research Interests
 ======
-My research interests focus on Software Testing and Analysis, in particular: Automated Debugging and Dynamic/Static Progarm Analysis via machine learning, deep learning and big code mining
+My research interests focus on Software Testing and Analysis, in particular: Automated Debugging and Dynamic/Static Progarm Analysis via machine learning, deep learning and big code mining.
 
 
 
