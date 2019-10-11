@@ -22,7 +22,7 @@ My research interests focus on Software Testing and Analysis, in particular: Aut
 
 2. **An Empirical Study of Boosting Spectrum-based Fault Localization via PageRank**  
 Mengshi Zhang, Yaoxian Li, **Xia Li**, Lingchao Chen, Yuqun Zhang, Lingming Zhang and Sarfraz Khurshid  
-*IEEE Transactions on Software Engineering ([TSE 2019]), 2019.* [[PDF]](https://lx0704.github.io/files/TSE2019.pdf) 
+*IEEE Transactions on Software Engineering ([TSE 2019](https://www.computer.org/csdl/journal/ts)), 2019.* [[PDF]](https://lx0704.github.io/files/TSE2019.pdf) 
 
 3. **Transforming Programs and Tests in Tandem for Fault Localization**  
 **Xia Li** and Lingming Zhang  
