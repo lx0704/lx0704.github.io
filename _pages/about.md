@@ -26,7 +26,7 @@ Mengshi Zhang, Yaoxian Li, **Xia Li**, Lingchao Chen, Yuqun Zhang, Lingming Zhan
 
 3. **Transforming Programs and Tests in Tandem for Fault Localization**  
 **Xia Li** and Lingming Zhang  
-*Proceedings of the ACM SIGPLAN Conference on Object-Oriented Programming Systems, Languages, and Applications ([SPLASH/OOPSLA 2017](https://2017.splashcon.org/track/splash-2017-OOPSLA)), Oct 2016.* [[PDF]](https://lx0704.github.io/files/trapt.pdf)
+*Proceedings of the ACM SIGPLAN Conference on Object-Oriented Programming Systems, Languages, and Applications ([SPLASH/OOPSLA 2017](https://2017.splashcon.org/track/splash-2017-OOPSLA)), Oct 2017.* [[PDF]](https://lx0704.github.io/files/trapt.pdf)
 
 4. **Boosting Spectrum-based Fault Localization using PageRank**  
 Mengshi Zhang, **Xia Li**, Lingming Zhang and Sarfraz Khurshid  
