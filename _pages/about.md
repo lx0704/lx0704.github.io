@@ -34,8 +34,13 @@ Mengshi Zhang, **Xia Li**, Lingming Zhang and Sarfraz Khurshid
 
 Professional Service
 ======
-2020 **Co-Reviewer**:ICSE  
-2019 **Co-Reviewer**:ICST,ISSTA,QRS,ICSME,ASE  
-2018 **Reviewer**:Journal of Systems and Software (JSS)    
-     **Co-Reviewer**:QRS,COMPSAC,ASE,SPE  
-2017 **Co-Reviewer**:ICST,QRS,COMPSAC,ASE
+Reviewer
+------
+2018 **Reviewer**:Journal of Systems and Software (JSS) 
+
+Co-Reviewer
+------
+2020:ICSE  
+2019:ICST,ISSTA,QRS,ICSME,ASE  
+2018:QRS,COMPSAC,ASE,SPE  
+2017:ICST,QRS,COMPSAC,ASE
