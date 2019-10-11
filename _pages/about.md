@@ -23,7 +23,7 @@ ACM SIGSOFT Distinguished Paper Award
 
 3. Mengshi Zhang, Xia Li, Lingming Zhang and Sarfraz Khurshid. Boosting Spectrum-based Fault Localization using PageRank. In Proceedings of the 26th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2017), July 2017. 
 
-4.Mengshi Zhang, Yaoxian Li, Xia Li, Lingchao Chen, Yuqun Zhang, Lingming Zhang, Sarfraz Khurshid. An Empirical Study of Boosting Spectrum-based Fault Localization via PageRank. IEEE Transactions on Software Engineering (TSE), April 2019.
+4. Mengshi Zhang, Yaoxian Li, Xia Li, Lingchao Chen, Yuqun Zhang, Lingming Zhang, Sarfraz Khurshid. An Empirical Study of Boosting Spectrum-based Fault Localization via PageRank. IEEE Transactions on Software Engineering (TSE), April 2019.
 
 
 
