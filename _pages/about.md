@@ -15,7 +15,7 @@ My research interests focus on Software Testing and Analysis, in particular: Aut
 
 # Publications
 1. **Can Automated Program Repair Refine Fault Localization?**             
-Yiling Lou, Ali Ghanbari, **Xia Li**, Lingming Zhang, Dan Hao, Lu Zhang
+Yiling Lou, Ali Ghanbari, **Xia Li**, Lingming Zhang, Dan Hao, Lu Zhang         
 arXiv preprint arXiv:1910.01270 [[PDF]](https://lx0704.github.io/files/ProFL.pdf)
 
 2. **DeepFL: Integrating Multiple Fault Diagnosis Dimensions for Deep Fault Localization**     
