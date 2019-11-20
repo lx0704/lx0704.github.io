@@ -11,8 +11,8 @@ I am a Ph.D. student in the [Department of Computer Science](http://cs.utdallas.
 
 # Research Interests
 
-My research interests focus on Software Testing and Analysis, in particular: Automated Debugging and Dynamic/Static Progarm Analysis via machine learning, deep learning and big code mining.
-
+My research interests focus on Software Engineering, in particular: software testing and debugging involving dy-
+namic/static program analysis, machine learning, deep learning and big-code mining.
 # Publications
 1. **Can Automated Program Repair Refine Fault Localization?**             
 Yiling Lou, Ali Ghanbari, **Xia Li**, Lingming Zhang, Dan Hao, Lu Zhang         
