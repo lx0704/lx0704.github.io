@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Ph.D. student in the [Department of Computer Science](http://cs.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/) supervised by Professor [Lingming Zhang](https://personal.utdallas.edu/~lxz144130/). I received my bachelor's degree in Mathematics and Applied Mathematics from [Jiangxi University of Science and Technology](http://e.jxust.edu.cn/) and two master's degrees in Management Science and Engineering from [Shandong Jianzhu University](https://xwzx2016.sdjzu.edu.cn/english/) and Information Technology and Management from [The University of Texas at Dallas](https://www.utdallas.edu/).
 
-**I am on the job market! You can download my [CV](https://lx0704.github.io/files/CV-XiaLi.pdf) from here.**
+**I am on the job market! You can download my CV from [here](https://lx0704.github.io/files/CV-XiaLi.pdf).**
 
 # Research Interests
 
