@@ -49,7 +49,7 @@ Mengshi Zhang, **Xia Li**, Lingming Zhang and Sarfraz Khurshid
 # Professional Service
 ## Program Committee member
 
-- 2020: WRSAT,PerCom WiP
+- 2020: PerCom WiP
 
 ## Reviewer
 
