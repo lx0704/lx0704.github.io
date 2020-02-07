@@ -26,7 +26,7 @@ Yiling Lou, Ali Ghanbari, **Xia Li**, Lingming Zhang, Haotian Zhang, Dan Hao and
 *Proceedings of the 29th ACM International Symposium on Software Testing and Analysis ([ISSTA 2020](https://conf.researchr.org/home/issta-2020), under submission), July 2020.* 
 
 2. **Can Automated Program Repair Refine Fault Localization?**             
-Yiling Lou, Ali Ghanbari, **Xia Li**, Lingming Zhang, Dan Hao, Lu Zhang         
+Yiling Lou, Ali Ghanbari, **Xia Li**, Lingming Zhang, Dan Hao and Lu Zhang         
 arXiv preprint arXiv:1910.01270 [[PDF]](https://lx0704.github.io/files/ProFL.pdf)
 
 3. **DeepFL: Integrating Multiple Fault Diagnosis Dimensions for Deep Fault Localization**     
