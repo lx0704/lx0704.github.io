@@ -47,6 +47,9 @@ Mengshi Zhang, **Xia Li**, Lingming Zhang and Sarfraz Khurshid
 *Proceedings of the 26th ACM International Symposium on Software Testing and Analysis ([ISSTA 2017](https://conf.researchr.org/home/issta-2017)), July 2017.* [[PDF]](https://lx0704.github.io/files/pagerank.pdf)
 
 # Professional Service
+## Program Committee member
+
+- 2020: WRSAT,PerCom WiP
 
 ## Reviewer
 
