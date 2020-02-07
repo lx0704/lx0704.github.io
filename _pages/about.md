@@ -18,7 +18,7 @@ namic/static program analysis, machine learning, deep learning and big-code mini
 # Publications
 1. **A Massive Study on API Misuses in the Wild and Its Implications**      
 **Xia Li**, Jiajun Jiang, Samuel Benton, Yingfei Xiong and Lingming Zhang  
-*Proceedings of the 29th ACM International Symposium on Software Testing and Analysis ([ISSTA 2020](https://conf.researchr.org/home/issta-2020)), July 2020.* [[PDF]](https://lx0704.github.io/files/APIMisuse.pdf)  
+*Proceedings of the 29th ACM International Symposium on Software Testing and Analysis ([ISSTA 2020](https://conf.researchr.org/home/issta-2020)), July 2020.* [[PDF]](https://lx0704.github.io/files/APIMisuse.pdf), Under submission 
 
 2. **Can Automated Program Repair Refine Fault Localization?**             
 Yiling Lou, Ali Ghanbari, **Xia Li**, Lingming Zhang, Dan Hao, Lu Zhang         
