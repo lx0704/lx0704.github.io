@@ -16,18 +16,10 @@ I am a Ph.D. student in the [Department of Computer Science](http://cs.utdallas.
 My research interests focus on Software Engineering, in particular: software testing and debugging involving dy-
 namic/static program analysis, machine learning, deep learning and big-code mining.
 # Publications
-1. **Can Automated Program Repair Refine Fault Localization?**  
-Yiling Lou, Ali Ghanbari, **Xia Li**, Lingming Zhang, Haotian Zhang, Dan Hao and Lu Zhang   
-*Proceedings of the 29th ACM International Symposium on Software Testing and Analysis ([ISSTA 2020](https://conf.researchr.org/home/issta-2020), under submission), July 2020.* 
 
-
-1. **A Massive Study on API Misuses in the Wild and Its Implications**      
-**Xia Li**, Jiajun Jiang, Samuel Benton, Yingfei Xiong and Lingming Zhang  
-*Proceedings of the 29th ACM International Symposium on Software Testing and Analysis ([ISSTA 2020](https://conf.researchr.org/home/issta-2020), under submission), July 2020.* 
-
-2. **Can Automated Program Repair Refine Fault Localization?**             
-Yiling Lou, Ali Ghanbari, **Xia Li**, Lingming Zhang, Dan Hao and Lu Zhang         
-arXiv preprint arXiv:1910.01270 [[PDF]](https://lx0704.github.io/files/ProFL.pdf)
+1. **Can Automated Program Repair Refine Fault Localization? A Unified Debugging Approach**  
+Yiling Lou, Ali Ghanbari, **Xia Li**, Lingming Zhang, Haotian Zhang, Dan Hao, Lu Zhang   
+*Proceedings of the 29th ACM International Symposium on Software Testing and Analysis ([ISSTA 2020](https://conf.researchr.org/home/issta-2020)), to appear, July 2020.* 
 
 3. **DeepFL: Integrating Multiple Fault Diagnosis Dimensions for Deep Fault Localization**     
 **Xia Li**, Wei Li, Yuqun Zhang and Lingming Zhang  
