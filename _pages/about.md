@@ -13,8 +13,7 @@ I am a Ph.D. student in the [Department of Computer Science](http://cs.utdallas.
 
 # Research Interests
 
-My research interests focus on Software Engineering, in particular: software testing and debugging involving dy-
-namic/static program analysis, machine learning, deep learning and big-code mining.
+My research interests focus on Software Engineering, in particular: software testing and debugging involving dynamic/static program analysis.
 # Publications
 
 1. **Can Automated Program Repair Refine Fault Localization? A Unified Debugging Approach**  
