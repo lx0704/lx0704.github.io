@@ -18,7 +18,7 @@ My research interests focus on Software Engineering, in particular: software tes
 # Publications
 
 1. **On the Effectiveness of Unified Debugging: An Extensive Study on 16 Program Repair Systems**    
-Samuel Benton, **Xia Li**, Yiling Lou, Lingming Zhang.  
+Samuel Benton, **Xia Li**, Yiling Lou, Lingming Zhang
 *The 35th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2020](https://conf.researchr.org/home/ase-2020)), to appear, September 2020.*
 
 2. **Can Automated Program Repair Refine Fault Localization? A Unified Debugging Approach**  
