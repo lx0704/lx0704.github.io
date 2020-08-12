@@ -45,7 +45,7 @@ Mengshi Zhang, **Xia Li**, Lingming Zhang and Sarfraz Khurshid
 # Professional Service
 ### Program Committee member
 
-- 2020: PerCom WiP
+- 2020: PerCom WiP, IRI
 
 ### Reviewer
 
@@ -53,7 +53,7 @@ Mengshi Zhang, **Xia Li**, Lingming Zhang and Sarfraz Khurshid
 
 ### Co-Reviewer
 
-- 2020: ICSE, ISSTA, FSE
+- 2020: ICSE, ISSTA, FSE, ASE
 - 2019: ICST, ISSTA, QRS, ICSME, ASE  
 - 2018: QRS, COMPSAC, ASE, SPE  
 - 2017: ICST, QRS, COMPSAC, ASE
