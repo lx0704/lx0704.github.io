@@ -17,9 +17,9 @@ I am an Assistant Professor in the [Department of Software Engineering and Game 
 My research interests focus on Software Engineering, in particular: software testing and debugging involving dynamic/static program analysis.
 # Publications
 
-1. **On the Effectiveness of Uni-fied Debugging: An Extensive Study on 16 Program Repair Systems**
+1. **On the Effectiveness of Uni-fied Debugging: An Extensive Study on 16 Program Repair Systems**    
 Samuel Benton, **Xia Li**, Yiling Lou, Lingming Zhang.  
-*The 35thIEEE/ACM International Conference on Automated Software Engineering (ASE 2020), to appear, September 2020.*
+*The 35thIEEE/ACM International Conference on Automated Software Engineering ([ASE 2020](https://conf.researchr.org/home/ase-2020)), to appear, September 2020.*
 
 2. **Can Automated Program Repair Refine Fault Localization? A Unified Debugging Approach**  
 Yiling Lou, Ali Ghanbari, **Xia Li**, Lingming Zhang, Haotian Zhang, Dan Hao, Lu Zhang   
