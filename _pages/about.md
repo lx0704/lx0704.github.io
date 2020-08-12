@@ -19,7 +19,7 @@ My research interests focus on Software Engineering, in particular: software tes
 
 1. **On the Effectiveness of Uni-fied Debugging: An Extensive Study on 16 Program Repair Systems**
 Samuel Benton, **Xia Li**, Yiling Lou, Lingming Zhang.  
-*The 35thIEEE/ACM International Conference on Automated Software Engineering (ASE 2020), toappear, September 2020.*
+*The 35thIEEE/ACM International Conference on Automated Software Engineering (ASE 2020), to appear, September 2020.*
 
 2. **Can Automated Program Repair Refine Fault Localization? A Unified Debugging Approach**  
 Yiling Lou, Ali Ghanbari, **Xia Li**, Lingming Zhang, Haotian Zhang, Dan Hao, Lu Zhang   
@@ -38,7 +38,7 @@ Mengshi Zhang, Yaoxian Li, **Xia Li**, Lingchao Chen, Yuqun Zhang, Lingming Zhan
 **Xia Li** and Lingming Zhang  
 *Proceedings of the ACM SIGPLAN Conference on Object-Oriented Programming Systems, Languages, and Applications ([SPLASH/OOPSLA 2017](https://2017.splashcon.org/track/splash-2017-OOPSLA)), Oct 2017.* [[PDF]](https://lx0704.github.io/files/trapt.pdf)
 
-5. **Boosting Spectrum-based Fault Localization using PageRank**  
+6. **Boosting Spectrum-based Fault Localization using PageRank**  
 Mengshi Zhang, **Xia Li**, Lingming Zhang and Sarfraz Khurshid  
 *Proceedings of the 26th ACM International Symposium on Software Testing and Analysis ([ISSTA 2017](https://conf.researchr.org/home/issta-2017)), July 2017.* [[PDF]](https://lx0704.github.io/files/pagerank.pdf)
 
