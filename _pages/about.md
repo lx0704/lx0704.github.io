@@ -16,14 +16,17 @@ I am an Assistant Professor in the [Department of Software Engineering and Game 
 
 My research interests focus on Software Engineering, in particular: software testing and debugging involving dynamic/static program analysis.
 # Publications
+1. **A Large-Scale Study on API Misuses in the Wild.**
+**Xia Li**, Jiajun Jiang, Samuel Benton, Yingfei Xiong, Lingming Zhang  
+*Proceedings of the 14th IEEE International Conference on Software Testing, Verification and Validation ([ICST 2021](https://icst2021.icmc.usp.br/)}, April 2021.*
 
 1. **On the Effectiveness of Unified Debugging: An Extensive Study on 16 Program Repair Systems**    
 Samuel Benton, **Xia Li**, Yiling Lou, Lingming Zhang   
-*The 35th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2020](https://conf.researchr.org/home/ase-2020)), to appear, September 2020.*
+*The 35th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2020](https://conf.researchr.org/home/ase-2020)), September 2020.*
 
 2. **Can Automated Program Repair Refine Fault Localization? A Unified Debugging Approach**  
 Yiling Lou, Ali Ghanbari, **Xia Li**, Lingming Zhang, Haotian Zhang, Dan Hao, Lu Zhang   
-*Proceedings of the 29th ACM International Symposium on Software Testing and Analysis ([ISSTA 2020](https://conf.researchr.org/home/issta-2020)), to appear, July 2020.* 
+*Proceedings of the 29th ACM International Symposium on Software Testing and Analysis ([ISSTA 2020](https://conf.researchr.org/home/issta-2020)), July 2020.* 
 
 3. **DeepFL: Integrating Multiple Fault Diagnosis Dimensions for Deep Fault Localization**     
 **Xia Li**, Wei Li, Yuqun Zhang and Lingming Zhang  
