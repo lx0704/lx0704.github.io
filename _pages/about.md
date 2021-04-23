@@ -16,9 +16,9 @@ I am an Assistant Professor in the [Department of Software Engineering and Game 
 
 My research interests focus on Software Engineering, in particular: software testing and debugging involving dynamic/static program analysis.
 # Publications
-1. **A Large-Scale Study on API Misuses in the Wild.**
+1. **A Large-Scale Study on API Misuses in the Wild.**  
 **Xia Li**, Jiajun Jiang, Samuel Benton, Yingfei Xiong, Lingming Zhang  
-*Proceedings of the 14th IEEE International Conference on Software Testing, Verification and Validation ([ICST 2021](https://icst2021.icmc.usp.br/)}, April 2021.*
+*Proceedings of the 14th IEEE International Conference on Software Testing, Verification and Validation ([ICST 2021](https://icst2021.icmc.usp.br/)), April 2021.*
 
 1. **On the Effectiveness of Unified Debugging: An Extensive Study on 16 Program Repair Systems**    
 Samuel Benton, **Xia Li**, Yiling Lou, Lingming Zhang   
