@@ -48,10 +48,11 @@ Mengshi Zhang, **Xia Li**, Lingming Zhang and Sarfraz Khurshid
 # Professional Service
 ### Program Committee member
 
-- 2020: PerCom WiP, IRI
+- 2020: PerCom WiP, IEEE IRI, IEEE CCWC
 
 ### Reviewer
-
+- 2020: International Journal of Distributed Sensor Networks 
+        Journal of Software Testing, Verification and Reliability
 - 2018: Journal of Systems and Software (JSS) 
 
 ### Co-Reviewer
