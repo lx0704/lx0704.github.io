@@ -70,10 +70,12 @@ Mengshi Zhang, **Xia Li**, Lingming Zhang and Sarfraz Khurshid
 
 # Professional Service
 ### Program Committee member
-
+- 2022: IEEE IRI
+- 2021: IEEE IRI, APR
 - 2020: PerCom WiP, IEEE IRI, IEEE CCWC
 
 ### Reviewer
+- 2021: Journal of Software Testing, Verification and Reliability, Software Quality Journal, IEEE Transactions on Software Engineering
 - 2020: International Journal of Distributed Sensor Networks   
 - 2020: Journal of Software Testing, Verification and Reliability   
 - 2018: Journal of Systems and Software (JSS) 
