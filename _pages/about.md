@@ -17,6 +17,11 @@ I am an Assistant Professor in the [Department of Software Engineering and Game 
 My research interests focus on Software Engineering, in particular: software testing and debugging involving dynamic/static program analysis.
 # Publications
 
+1. **Towards Boosting Patch Execution On-the-Fly**    
+Samuel Benton, Yuntong Xie, Lan Lu, Mengshi Zhang, **Xia Li**, Lingming Zhang
+*Proceedings of the 44th IEEE/ACM International Conference on Software Engineering
+(ICSE 2022), May 2022*
+
 1. **Evaluating and Improving Unified Debugging**    
 Samuel Benton, **Xia Li**, Yiling Lou, Lingming Zhang    
 *IEEE Transactions on Software Engineering([TSE 2021](https://www.computer.org/csdl/journal/ts))*
