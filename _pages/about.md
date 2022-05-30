@@ -17,6 +17,14 @@ I am an Assistant Professor in the [Department of Software Engineering and Game 
 My research interests focus on Software Engineering, in particular: software testing and debugging involving dynamic/static program analysis.
 # Publications
 
+1. **Improving Mutation-Based Fault Localization via Mutant Categorization**      
+**Xia Li**, Durga Nagarjuna Tadikonda    
+*The 34th International Conference on Software Engineering & Knowledge Engineering (SEKE 2022), July 2022*
+
+3. **Software Engineering Process and Methodology in Blockchain-Oriented Software Development: A Systematic Study**    
+Md Jobair Hossain Faruk, Santhiya Subramanian, Hossain Shahriar, Maria Valero, **Xia Li**, Sheikh Iqbal Ahamed    
+*20th IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA 2022) May 2022*
+
 1. **Towards Boosting Patch Execution On-the-Fly**    
 Samuel Benton, Yuntong Xie, Lan Lu, Mengshi Zhang, **Xia Li**, Lingming Zhang
 *Proceedings of the 44th IEEE/ACM International Conference on Software Engineering
