@@ -16,6 +16,12 @@ I am an Assistant Professor in the [Department of Software Engineering and Game 
 
 My research interests focus on Software Engineering, in particular: software testing and debugging involving dynamic/static program analysis.
 # Publications
+
+1. **Boosting Coverage-Based Fault Localization via Graph-Based Representation Learning**
+Yiling Lou, Qihao Zhu, Jinhao Dong, **Xia Li**, Zeyu Sun, Dan Hao, Lu Zhang, Lingming Zhang
+*Proceedings of 28th ACM SIGSOFT International Symposium on the Foundations of Software Engineering
+([FSE 2021](https://2021.esec-fse.org/)), August 2021*
+
 1. **A Large-Scale Study on API Misuses in the Wild.**  
 **Xia Li**, Jiajun Jiang, Samuel Benton, Yingfei Xiong, Lingming Zhang  
 *Proceedings of the 14th IEEE International Conference on Software Testing, Verification and Validation ([ICST 2021](https://icst2021.icmc.usp.br/)), April 2021.*
