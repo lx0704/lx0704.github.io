@@ -22,22 +22,22 @@ Yiling Lou, Qihao Zhu, Jinhao Dong, **Xia Li**, Zeyu Sun, Dan Hao, Lu Zhang, Lin
 *Proceedings of 28th ACM SIGSOFT International Symposium on the Foundations of Software Engineering
 ([FSE 2021](https://2021.esec-fse.org/)), August 2021*
 
-1. **A Large-Scale Study on API Misuses in the Wild.**  
+1. **A Large-Scale Study on API Misuses in the Wild**  
 **Xia Li**, Jiajun Jiang, Samuel Benton, Yingfei Xiong, Lingming Zhang  
-*Proceedings of the 14th IEEE International Conference on Software Testing, Verification and Validation ([ICST 2021](https://icst2021.icmc.usp.br/)), April 2021.*
+*Proceedings of the 14th IEEE International Conference on Software Testing, Verification and Validation ([ICST 2021](https://icst2021.icmc.usp.br/)), April 2021*
 
 1. **On the Effectiveness of Unified Debugging: An Extensive Study on 16 Program Repair Systems**    
 Samuel Benton, **Xia Li**, Yiling Lou, Lingming Zhang   
-*The 35th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2020](https://conf.researchr.org/home/ase-2020)), September 2020.*
+*The 35th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2020](https://conf.researchr.org/home/ase-2020)), September 2020*
 
 2. **Can Automated Program Repair Refine Fault Localization? A Unified Debugging Approach**  
 Yiling Lou, Ali Ghanbari, **Xia Li**, Lingming Zhang, Haotian Zhang, Dan Hao, Lu Zhang   
-*Proceedings of the 29th ACM International Symposium on Software Testing and Analysis ([ISSTA 2020](https://conf.researchr.org/home/issta-2020)), July 2020.* 
+*Proceedings of the 29th ACM International Symposium on Software Testing and Analysis ([ISSTA 2020](https://conf.researchr.org/home/issta-2020)), July 2020* 
 
 3. **DeepFL: Integrating Multiple Fault Diagnosis Dimensions for Deep Fault Localization**     
 **Xia Li**, Wei Li, Yuqun Zhang and Lingming Zhang  
-*Proceedings of the 28th ACM International Symposium on Software Testing and Analysis ([ISSTA 2019](https://conf.researchr.org/home/issta-2019)), July 2019.* [[PDF]](https://lx0704.github.io/files/DeepFL.pdf)  
-(This paper won an **ACM SIGSOFT Distinguished Paper Award.**) 
+*Proceedings of the 28th ACM International Symposium on Software Testing and Analysis ([ISSTA 2019](https://conf.researchr.org/home/issta-2019)), July 2019* [[PDF]](https://lx0704.github.io/files/DeepFL.pdf)  
+(This paper won an **ACM SIGSOFT Distinguished Paper Award**) 
 
 4. **An Empirical Study of Boosting Spectrum-based Fault Localization via PageRank**  
 Mengshi Zhang, Yaoxian Li, **Xia Li**, Lingchao Chen, Yuqun Zhang, Lingming Zhang and Sarfraz Khurshid  
@@ -45,11 +45,11 @@ Mengshi Zhang, Yaoxian Li, **Xia Li**, Lingchao Chen, Yuqun Zhang, Lingming Zhan
 
 5. **Transforming Programs and Tests in Tandem for Fault Localization**  
 **Xia Li** and Lingming Zhang  
-*Proceedings of the ACM SIGPLAN Conference on Object-Oriented Programming Systems, Languages, and Applications ([SPLASH/OOPSLA 2017](https://2017.splashcon.org/track/splash-2017-OOPSLA)), Oct 2017.* [[PDF]](https://lx0704.github.io/files/trapt.pdf)
+*Proceedings of the ACM SIGPLAN Conference on Object-Oriented Programming Systems, Languages, and Applications ([SPLASH/OOPSLA 2017](https://2017.splashcon.org/track/splash-2017-OOPSLA)), Oct 2017* [[PDF]](https://lx0704.github.io/files/trapt.pdf)
 
 6. **Boosting Spectrum-based Fault Localization using PageRank**  
 Mengshi Zhang, **Xia Li**, Lingming Zhang and Sarfraz Khurshid  
-*Proceedings of the 26th ACM International Symposium on Software Testing and Analysis ([ISSTA 2017](https://conf.researchr.org/home/issta-2017)), July 2017.* [[PDF]](https://lx0704.github.io/files/pagerank.pdf)
+*Proceedings of the 26th ACM International Symposium on Software Testing and Analysis ([ISSTA 2017](https://conf.researchr.org/home/issta-2017)), July 2017* [[PDF]](https://lx0704.github.io/files/pagerank.pdf)
 
 # Professional Service
 ### Program Committee member
