@@ -17,7 +17,7 @@ I am an Assistant Professor in the [Department of Software Engineering and Game 
 My research interests focus on Software Engineering, in particular: software testing and debugging involving dynamic/static program analysis.
 # Publications
 
-1. **Boosting Coverage-Based Fault Localization via Graph-Based Representation Learning**
+1. **Boosting Coverage-Based Fault Localization via Graph-Based Representation Learning**    
 Yiling Lou, Qihao Zhu, Jinhao Dong, **Xia Li**, Zeyu Sun, Dan Hao, Lu Zhang, Lingming Zhang
 *Proceedings of 28th ACM SIGSOFT International Symposium on the Foundations of Software Engineering
 ([FSE 2021](https://2021.esec-fse.org/)), August 2021*
