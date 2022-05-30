@@ -17,6 +17,10 @@ I am an Assistant Professor in the [Department of Software Engineering and Game 
 My research interests focus on Software Engineering, in particular: software testing and debugging involving dynamic/static program analysis.
 # Publications
 
+1. **Evaluating and Improving Unified Debugging**    
+Samuel Benton, **Xia Li**, Yiling Lou, Lingming Zhang    
+*IEEE Transactions on Software Engineering([TSE 2021](https://www.computer.org/csdl/journal/ts))*
+
 1. **Boosting Coverage-Based Fault Localization via Graph-Based Representation Learning**    
 Yiling Lou, Qihao Zhu, Jinhao Dong, **Xia Li**, Zeyu Sun, Dan Hao, Lu Zhang, Lingming Zhang    
 *Proceedings of 28th ACM SIGSOFT International Symposium on the Foundations of Software Engineering
