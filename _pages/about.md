@@ -14,7 +14,8 @@ I am an Assistant Professor in the [Department of Software Engineering and Game 
 
 # Research Interests
 
-My research interests focus on Software Engineering, in particular: software testing and debugging involving dynamic/static program analysis.
+My research interests focus on Software Engineering, in particular: oftware testing and debugging, software maintenance
+through machine learning, deep learning, and artificial intelligence.
 # Publications
 
 1. **Improving Mutation-Based Fault Localization via Mutant Categorization**      
