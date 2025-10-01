@@ -9,13 +9,16 @@ redirect_from:
 ---
 I am an Assistant Professor in the [Department of Software Engineering and Game Design and Development](https://ccse.kennesaw.edu/swegd/index.php) at [Kennesaw State University](https://www.kennesaw.edu/). I received my Ph.D. degree in Computer Science at [The University of Texas at Dallas](https://www.utdallas.edu/). My advisor is Professor [Lingming Zhang](https://personal.utdallas.edu/~lxz144130/). 
 
-<!--I received my bachelor's degree in Mathematics and Applied Mathematics from [Jiangxi University of Science and Technology](http://e.jxust.edu.cn/) and two master's degrees in Management Science and Engineering from [Shandong Jianzhu University](https://xwzx2016.sdjzu.edu.cn/english/) and Information Technology and Management from [The University of Texas at Dallas](https://www.utdallas.edu/)-->
-
 
 # Research Interests
 
 My research interests focus on Software Engineering, in particular: software testing and debugging, software maintenance
 through machine learning, deep learning, and artificial intelligence.
+
+# Grants
+
+"Towards an AI-powered and failed-tests-driven software debugger". Sponsored by Georgia Research Alliance, $46,227. (6/2025–12/2025)
+
 # Publications
 
 1. **Improving Mutation-Based Fault Localization via Mutant Categorization**      
