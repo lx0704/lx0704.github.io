@@ -21,6 +21,28 @@ through machine learning, deep learning, and artificial intelligence.
 
 # Publications
 
+Xia Li, Tanvi Mistry. Multi-label commit message classification through p-tuning.
+4th International Conference on Software Engineering and Automation (SEAU 2025),
+August 2025.
+◦ Xia Li, Allen Kim. Evaluating prompt-learning-based API review classification
+through pre-trained models. 3rd International Conference on Computer Science, Engi-
+neering and Artificial Intelligence (CSEAI 2025), May 2025.
+◦ Xia Li, Allen Kim. A Study to Evaluate the Impact of LoRA Fine-tuning on the
+Performance of Non-functional Requirements Classification. 9th International Con-
+ference on Software Engineering and Applications (SOEA 2025), Feburary 2025.
+◦ Xia Li. An Empirical Study of Prompt-based Non-functional Requirements Classi-
+fication. 5th International Conference on Software Engineering and Managing Information
+Technology (SEMIT 2024), November 2024.
+
+1. **Accelerating Mutation-Based Fault Localization via Optimized Mutant Execution**
+**Xia Li**, Ryan Juza. 
+*13th International Conference on Software Technology and Engineering (ICSTE 2023), October 2023*
+
+
+
+
+
+
 1. **Improving Mutation-Based Fault Localization via Mutant Categorization**      
 **Xia Li**, Durga Nagarjuna Tadikonda    
 *The 34th International Conference on Software Engineering & Knowledge Engineering (SEKE 2022), July 2022*
