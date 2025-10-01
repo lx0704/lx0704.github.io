@@ -17,7 +17,7 @@ through machine learning, deep learning, and artificial intelligence.
 
 # Grants
 
-"Towards an AI-powered and failed-tests-driven software debugger". Sponsored by Georgia Research Alliance, $46,227. (6/2025–12/2025)
+1. **Towards an AI-powered and failed-tests-driven software debugger**. Sponsored by Georgia Research Alliance, $46,227. (6/2025–12/2025)
 
 # Publications
 
