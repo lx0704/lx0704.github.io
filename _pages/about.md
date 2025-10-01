@@ -30,11 +30,16 @@ neering and Artificial Intelligence (CSEAI 2025), May 2025.
 ◦ Xia Li, Allen Kim. A Study to Evaluate the Impact of LoRA Fine-tuning on the
 Performance of Non-functional Requirements Classification. 9th International Con-
 ference on Software Engineering and Applications (SOEA 2025), Feburary 2025.
-◦ Xia Li. An Empirical Study of Prompt-based Non-functional Requirements Classi-
-fication. 5th International Conference on Software Engineering and Managing Information
-Technology (SEMIT 2024), November 2024.
 
-1. **Accelerating Mutation-Based Fault Localization via Optimized Mutant Execution**
+**An Empirical Study of Prompt-based Non-functional Requirements Classification** 
+
+**Xia Li**. 
+*5th International Conference on Software Engineering and Managing Information Technology (SEMIT 2024), November 2024*
+
+
+ 
+ **Accelerating Mutation-Based Fault Localization via Optimized Mutant Execution**
+   
 **Xia Li**, Ryan Juza. 
 *13th International Conference on Software Technology and Engineering (ICSTE 2023), October 2023*
 
