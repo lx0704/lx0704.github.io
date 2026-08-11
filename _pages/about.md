@@ -17,43 +17,40 @@ through machine learning, deep learning, and artificial intelligence.
 
 # Grants
 
-1. **Towards an AI-powered and failed-tests-driven software debugger**. Sponsored by Georgia Research Alliance, $46,227. (6/2025–12/2025)
+**Towards an AI-powered and failed-tests-driven software debugger**. Sponsored by Georgia Research Alliance, $46,227. (6/2025–12/2025)
 
 # Publications
 
-**Multi-label commit message classification through p-tuning**
+**Multi-label commit message classification through p-tuning**  
 **Xia Li**, Tanvi Mistry. 
-*4th International Conference on Software Engineering and Automation (SEAU 2025), August 2025.
+*4th International Conference on Software Engineering and Automation (SEAU 2025), August 2025*
 
-**Evaluating prompt-learning-based API review classification through pre-trained models.**
+**Evaluating prompt-learning-based API review classification through pre-trained models**  
 **Xia Li**, Allen Kim. 
-*3rd International Conference on Computer Science, Engineering and Artificial Intelligence (CSEAI 2025), May 2025.
+*3rd International Conference on Computer Science, Engineering and Artificial Intelligence (CSEAI 2025), May 2025*
 
-**A Study to Evaluate the Impact of LoRA Fine-tuning on the Performance of Non-functional Requirements Classification.**
+**A Study to Evaluate the Impact of LoRA Fine-tuning on the Performance of Non-functional Requirements Classification**  
 **Xia Li**, Allen Kim.  
-*9th International Conference on Software Engineering and Applications (SOEA 2025), Feburary 2025.
+*9th International Conference on Software Engineering and Applications (SOEA 2025), Feburary 2025*
 
-**An Empirical Study of Prompt-based Non-functional Requirements Classification** 
+**An Empirical Study of Prompt-based Non-functional Requirements Classification**   
 **Xia Li**. 
 *5th International Conference on Software Engineering and Managing Information Technology (SEMIT 2024), November 2024*
  
-**Accelerating Mutation-Based Fault Localization via Optimized Mutant Execution**
+**Accelerating Mutation-Based Fault Localization via Optimized Mutant Execution**  
 **Xia Li**, Ryan Juza. 
 *13th International Conference on Software Technology and Engineering (ICSTE 2023), October 2023*
 
 
-
-
-
-**Improving Mutation-Based Fault Localization via Mutant Categorization**      
+**Improving Mutation-Based Fault Localization via Mutant Categorization**        
 **Xia Li**, Durga Nagarjuna Tadikonda    
 *The 34th International Conference on Software Engineering & Knowledge Engineering (SEKE 2022), July 2022*
 
-**Software Engineering Process and Methodology in Blockchain-Oriented Software Development: A Systematic Study**    
+**Software Engineering Process and Methodology in Blockchain-Oriented Software Development: A Systematic Study**      
 Md Jobair Hossain Faruk, Santhiya Subramanian, Hossain Shahriar, Maria Valero, **Xia Li**, Sheikh Iqbal Ahamed    
 *20th IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA 2022), May 2022*
 
-**Towards Boosting Patch Execution On-the-Fly**    
+**Towards Boosting Patch Execution On-the-Fly**      
 Samuel Benton, Yuntong Xie, Lan Lu, Mengshi Zhang, **Xia Li**, Lingming Zhang    
 *Proceedings of the 44th IEEE/ACM International Conference on Software Engineering
 (ICSE 2022), May 2022*
