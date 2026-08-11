@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor in the [Department of Computer Science](https://www.mga.edu/computing/computer-science/index.php) at [Middle Georgia State University](https://www.kennesaw.edu/).I received my Ph.D. degree in Computer Science at [The University of Texas at Dallas](https://www.utdallas.edu/). My advisor is Professor [Lingming Zhang](https://personal.utdallas.edu/~lxz144130/). 
+I am an Assistant Professor in the [Department of Computer Science](https://www.mga.edu/computing/computer-science/index.php) at [Middle Georgia State University](https://www.mga.edu/).I received my Ph.D. degree in Computer Science at [The University of Texas at Dallas](https://www.utdallas.edu/). My advisor is Professor [Lingming Zhang](https://personal.utdallas.edu/~lxz144130/). 
 
 
 # Research Interests
