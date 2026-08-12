@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xia Li"
   avatar           : "bio-photo.jpg"
-  bio              : "Assistant Professor at Kennesaw State University"
-  location         : "Kennesaw, US"
+  bio              : "Assistant Professor at Middle Georgia State University"
+  location         : "Macon, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ace4tRIAAAAJ&hl=en&oi=ao"
-  email            : xli37@kennesaw.edu
+  email            : xia.li@mga.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
